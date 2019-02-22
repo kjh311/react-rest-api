@@ -20,6 +20,7 @@ class App extends Component {
       title: 'New App Title'
     });
   }
+  
 
   render() {
 
